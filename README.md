@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nothing rn, still learning
 - 📫 How to reach me ... write me here on Github
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I like cats, but dogs are good too!
 
 <!---
 EnderCatto/EnderCatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
